@@ -1,0 +1,5 @@
+logs/
+venv/
+.env
+LLMOPS_3_Study_Buddy.egg-info/
+results/
